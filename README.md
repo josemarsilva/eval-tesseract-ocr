@@ -74,6 +74,9 @@ This is repository for project **Evaluation Tesseract OCR**.
 
 ## I - References ##
 
+* https://github.com/tesseract-ocr/tesseract/wiki/Documentation
+* https://github.com/piersy/BasicTesseractExample
+* https://github.com/nguyenq/tess4j
 * https://www.devmedia.com.br/aplicando-ocr-em-java-com-tesseract/31511
 * https://stackoverflow.com/questions/13974645/using-tesseract-from-java
 * https://danilotl.com.br/blog/reconhecendo-caracteres-em-imagens-com-java-e-tess4j/
